@@ -1,0 +1,53 @@
+_repo: Do-a-Perfecta_15725
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Marsh, Arthur Richmond
+    alias: Marsh, Arthur R. (Arthur Richmond)
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '39103'
+    url: http://www.gutenberg.org/2009/agents/39103
+  contributor:
+    agent_name: Byington, Steven T. (Steven Tracy)
+    alias: Byington, Steven Tracy
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '37097'
+    url: http://www.gutenberg.org/2009/agents/37097
+    wikipedia: http://en.wikipedia.org/wiki/Steven_T._Byington
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2005-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15725'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberalism -- Spain -- History -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Spanish language -- Readers'
+- !lcsh 'Religion and politics -- Spain -- History -- 19th century -- Fiction'
+- !lcsh 'Social conflict -- Spain -- History -- 19th century -- Fiction'
+title: Doña Perfecta
+url: http://www.gutenberg.org/ebooks/15725
